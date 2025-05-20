@@ -627,8 +627,8 @@ function App() {
               
               <div className="border-t-2 border-[#00FFCC]/30 pt-6">
                 <h4 className="text-xl font-bold mb-4">Desenvolvido por:</h4>
-                <p>Guilherme Abtibol • Turma Engs241N01</p>
-                <p className="mt-2">Email: guilherme@exemplo.com</p>
+                <p>Guilherme Abtibol</p>
+                <p className="mt-2">Email: gui@gmail.com.com</p>
               </div>
             </div>
           </section>
