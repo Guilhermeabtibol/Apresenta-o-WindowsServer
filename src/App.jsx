@@ -95,7 +95,7 @@ function App() {
               <span className="text-[#00FFCC] text-6xl font-bold">&#123;</span>
               <div className="mx-4">
                 <h2 className="text-5xl md:text-7xl font-bold">Eng. SOFTWARE</h2>
-                <p className="text-[#00FFCC] text-xl md:text-3xl mt-2">Documentação</p>
+                <p className="text-[#00FFCC] text-xl md:text-3xl mt-2">Apresentação</p>
               </div>
               <span className="text-[#00FFCC] text-6xl font-bold">&#125;</span>
             </div>
@@ -105,7 +105,7 @@ function App() {
             <div className="relative max-w-xl">
               <div className="absolute inset-0 border-2 border-[#00FFCC] rounded-lg transform rotate-3 shadow-[0_0_5px_#00FFCC,0_0_10px_#00FFCC]"></div>
               <div className="relative bg-[#070714] border-2 border-[#00FFCC] rounded-lg p-6 shadow-[0_0_5px_#00FFCC,0_0_10px_#00FFCC]">
-                <p className="text-lg mb-4">Documentação técnica completa sobre o Windows Server, suas funcionalidades, vantagens e aplicações em ambientes empresariais.</p>
+                <p className="text-lg mb-4">Apresentação técnica completa sobre o Windows Server, suas funcionalidades, vantagens e aplicações em ambientes empresariais.</p>
                 <div className="flex justify-center">
                   <a href="#sobre" className="inline-block px-6 py-3 bg-[#070714] text-[#00FFCC] border-2 border-[#00FFCC] rounded-lg font-bold shadow-[0_0_5px_#00FFCC,0_0_10px_#00FFCC] hover:bg-[#00FFCC] hover:text-[#070714] transition-all duration-300">Iniciar Leitura</a>
                 </div>
